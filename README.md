@@ -1,1 +1,1 @@
-these are some basic codes,for learns who just start c++ language. 
+these are some basic codes,for learners who just start c++ language. 
